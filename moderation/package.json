@@ -1,9 +1,9 @@
 {
-  "name": "query",
+  "name": "moderation",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+"start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -12,8 +12,7 @@
   "description": "",
   "dependencies": {
     "axios": "^1.9.0",
-    "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
